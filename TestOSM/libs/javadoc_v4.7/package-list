@@ -1,0 +1,8 @@
+org.osmdroid.bonuspack
+org.osmdroid.bonuspack.cachemanager
+org.osmdroid.bonuspack.clustering
+org.osmdroid.bonuspack.kml
+org.osmdroid.bonuspack.location
+org.osmdroid.bonuspack.overlays
+org.osmdroid.bonuspack.routing
+org.osmdroid.bonuspack.utils
