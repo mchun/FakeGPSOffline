@@ -1,14 +1,11 @@
-FakeGPSOffline
+FakeGPSOffline for android
 ==============
-
-#Android app:
 offline map viewer that send location to FakeGPS Location Donated version to set a fake GPS coordinates
 Osmdroid library is being used.
 
 * The current map centre location is set to HK
-* So the app name is FakeHKGPS right now...
 
-##Usage:
+#Usage:
 
 1. download http://www.multiupload.com/KFBBFZYIEY for offline map of HK, or download maps in osmdroid format using mobile atlas creator or other software
 2. place the .zip in directory of yourSDcard/osmdroid
