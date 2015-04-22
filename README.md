@@ -9,6 +9,7 @@ Osmdroid library is being used.
 * So the app name is FakeHKGPS right now...
 
 Usage:
+
 1. download http://www.multiupload.com/KFBBFZYIEY for offline map of HK, or download maps in osmdroid format using mobile atlas creator or other software
 2. place the .zip in directory of yourSDcard/osmdroid
 3. install FakeGPS Location Donated version
